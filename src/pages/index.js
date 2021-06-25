@@ -10,7 +10,7 @@ import Cells from '../components/cells';
 
 const IndexPage = () => (
   <Layout>
-    <SEO title='Arty' keywords={[`gatsby`, `landing page`, `react`, `contentful`, `graphql`]} />
+    <SEO title='Redeaux Games' keywords={[`gatsby`, `landing page`, `react`, `contentful`, `graphql`]} />
 
     <Hero />
     <Cards />
