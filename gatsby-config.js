@@ -4,9 +4,9 @@ require("dotenv").config({
 
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Landing Page`,
-    description: `Landing Page built with Gatsby, CSS Grid, styled-components, GraphQl and Contentful`,
-    author: `@eneax`,
+    title: `Redeaux Games`,
+    description: `Redeaux Games home page.`,
+    author: `@redeauxgames`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
